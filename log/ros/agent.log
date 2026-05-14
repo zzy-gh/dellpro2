@@ -1,0 +1,107 @@
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-15-38-18-081484-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3278329
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3278343]
+[INFO] [rosapi_node-2]: process started with pid [3278345]
+[rosbridge_websocket-1] [WARN] [1778679498.384758356] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778679498.384896283] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778679498.385003506] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778679498.385466429] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-15-48-53-448323-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3285502
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3285516]
+[INFO] [rosapi_node-2]: process started with pid [3285518]
+[rosbridge_websocket-1] [WARN] [1778680133.721551516] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778680133.721703834] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778680133.721811011] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778680133.722268213] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-15-50-56-150925-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3287065
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3287079]
+[INFO] [rosapi_node-2]: process started with pid [3287081]
+[rosbridge_websocket-1] [WARN] [1778680256.433299605] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778680256.433461350] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778680256.433588326] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778680256.434065686] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-15-59-57-078595-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3294125
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3294139]
+[INFO] [rosapi_node-2]: process started with pid [3294141]
+[rosbridge_websocket-1] [WARN] [1778680797.451191763] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778680797.451360875] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778680797.451489176] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778680797.452017075] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-16-38-19-301594-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3316832
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3316846]
+[INFO] [rosapi_node-2]: process started with pid [3316848]
+[rosbridge_websocket-1] [WARN] [1778683099.603900918] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+
+[rosbridge_websocket-1] [WARN] [1778683099.604335942] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+
+[rosbridge_websocket-1] [WARN] [1778683099.604465643] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778683099.605262821] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-17-01-48-779414-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3330328
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3330342]
+[INFO] [rosapi_node-2]: process started with pid [3330344]
+[rosbridge_websocket-1] [WARN] [1778684509.073522488] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778684509.073667502] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778684509.073777179] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778684509.074209264] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-13-17-27-50-628416-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3344858
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3344872]
+[INFO] [rosapi_node-2]: process started with pid [3344874]
+[rosbridge_websocket-1] [WARN] [1778686070.912436168] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778686070.912588914] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778686070.912700834] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778686070.913178108] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-14-13-01-19-490032-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3626255
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3626271]
+[INFO] [rosapi_node-2]: process started with pid [3626273]
+[rosbridge_websocket-1] [WARN] [1778756479.765214078] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778756479.765358677] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778756479.765471778] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778756479.765920086] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-14-13-26-58-846948-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3631414
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3631429]
+[INFO] [rosapi_node-2]: process started with pid [3631431]
+[rosbridge_websocket-1] [WARN] [1778758019.143680337] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778758019.143837196] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778758019.143947296] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778758019.144408605] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-14-13-31-44-167333-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3632872
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3632886]
+[INFO] [rosapi_node-2]: process started with pid [3632888]
+[rosbridge_websocket-1] [WARN] [1778758304.444949114] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778758304.445113085] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778758304.445239240] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778758304.446133476] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-14-13-42-41-255866-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3635749
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3635763]
+[INFO] [rosapi_node-2]: process started with pid [3635765]
+[rosbridge_websocket-1] [WARN] [1778758961.524878844] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778758961.525027313] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778758961.525136625] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778758961.525968864] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-14-14-01-12-240166-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3640411
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3640425]
+[INFO] [rosapi_node-2]: process started with pid [3640427]
+[rosbridge_websocket-1] [WARN] [1778760072.506906965] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778760072.507050923] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778760072.507160226] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778760072.507618514] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
+[INFO] [launch]: All log files can be found below /home/dellpro2/.ros/log/2026-05-14-14-50-21-597665-dellpro2-Dell-Pro-Max-Tower-T2-FCT2250-3649450
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [rosbridge_websocket-1]: process started with pid [3649464]
+[INFO] [rosapi_node-2]: process started with pid [3649466]
+[rosbridge_websocket-1] [WARN] [1778763021.881337107] [rosbridge_websocket]: The 'default_call_service_timeout' parameter is currently set to 0.0, which means service calls will block indefinitely if no response is received. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to 5.0 seconds.
+[rosbridge_websocket-1] [WARN] [1778763021.881491539] [rosbridge_websocket]: The 'call_services_in_new_thread' parameter is currently set to False, which means service calls will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [WARN] [1778763021.881598867] [rosbridge_websocket]: The 'send_action_goals_in_new_thread' parameter is currently set to False, which means sending action goals will block the main thread. Please note that in the Jazzy and later releases, the default value for this parameter will be updated to True.
+[rosbridge_websocket-1] [INFO] [1778763021.882058894] [rosbridge_websocket]: Rosbridge WebSocket server started on port 9090
