@@ -66,21 +66,7 @@ class MyROS2Agent(ROS2Agent):
                 "id": "rgb_0",
                 "x": CAMERA_POS[0], "y": CAMERA_POS[1], "z": CAMERA_POS[2],
                 "roll":  CAMERA_ROT[0], "pitch": CAMERA_ROT[1], "yaw": CAMERA_ROT[2],
-                "width":  CAMERA_W, "height": CAMERA_H, "fov": 120,
-            },
-            {
-                "type": "sensor.camera.rgb",
-                "id": "rgb_1",
-                "x": CAMERA_POS[0], "y": -0.3, "z": CAMERA_POS[2],
-                "roll": 0.0, "pitch": 0.0, "yaw": -45.0,
-                "width": CAMERA_W, "height": CAMERA_H, "fov": 120,
-            },
-            {
-                "type": "sensor.camera.rgb",
-                "id": "rgb_2",
-                "x": CAMERA_POS[0], "y": 0.3, "z": CAMERA_POS[2],
-                "roll": 0.0, "pitch": 0.0, "yaw": 45.0,
-                "width": CAMERA_W, "height": CAMERA_H, "fov": 120,
+                "width":  CAMERA_W, "height": CAMERA_H, "fov": CAMERA_FOV,
             },
             {
                 "type": "sensor.other.imu",
