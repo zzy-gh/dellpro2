@@ -15,24 +15,16 @@ Topics published by carla_ros_bridge (ego role_name = hero):
   /carla/hero/imu                  sensor_msgs/Imu
   /carla/hero/gps                  sensor_msgs/NavSatFix
   /carla/hero/speed                std_msgs/Float32
-  /carla/hero/odometry             nav_msgs/Odometry     (auto-published; used by carla_ackermann_control PID)
+  /carla/hero/odometry             nav_msgs/Odometry
   /carla/hero/global_plan          carla_msgs/CarlaRoute
   /carla/hero/global_plan_gnss     carla_msgs/CarlaGnssRoute
   /carla/hero/status               std_msgs/Bool
 
-Control mode (set via CONTROL_MODE env var):
-
-  CONTROL_MODE=vehicle  (default)
+Control mode:
+  Vehicle control (default)
     B machine publishes: /carla/hero/vehicle_control_cmd  carla_msgs/CarlaEgoVehicleControl
     Fields: throttle(0-1), brake(0-1), steer(-1~1), hand_brake, reverse
-
-  CONTROL_MODE=ackermann
-    B machine publishes: /carla/hero/ackermann_control  ackermann_msgs/AckermannDrive
-    Fields: speed(m/s), steering_angle(rad)
-    carla_ackermann_control node is auto-started to do PID conversion to vehicle_control_cmd
 """
-
-import os
 
 from leaderboard.autoagents.ros2_agent import ROS2Agent
 
